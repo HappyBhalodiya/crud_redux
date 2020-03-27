@@ -1,0 +1,4 @@
+#Fri Mar 27 08:53:53 IST 2020
+base.0=/var/www/html/React-Native/crud/client/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
